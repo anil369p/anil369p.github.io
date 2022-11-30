@@ -7,6 +7,7 @@ import Right from './components/right/Right';
 import Experience from './components/experience/Experience';
 import Contact from './components/contact/Contact';
 import Footer from './components/footer/Footer';
+import Work from './components/work/Work';
 
 function App() {
   return (
@@ -17,6 +18,7 @@ function App() {
       <Header />
       <About />
       <Experience />
+      <Work />
       <Contact />
       <Footer />
     </div>

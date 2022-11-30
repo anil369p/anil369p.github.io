@@ -1,5 +1,6 @@
 import React, { useEffect } from 'react'
 import './Nav.css'
+import Resume from '../../media/Resume_Anil.pdf'
 
 function Nav() {
 
@@ -31,7 +32,7 @@ function Nav() {
                 </ul>
             </div>
             <div className='nav_btn'>
-                <button>Resume</button>
+                <a href={Resume} target="blank"><button>Resume</button></a>
             </div>
         </div>
     </div>
