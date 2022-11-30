@@ -1,3 +1,14 @@
+@media only screen and (max-width: 480px){
+    .work_wrapper{
+        margin: 100px 50px 0 50px !important;
+    }
+    .work_heading h3{
+        font-size: 20px !important;
+    }
+    .work_line{
+        flex: 0.1 !important;
+    }
+}
 .work_wrapper{
     margin: 100px 100px 0 100px;
 }
@@ -14,7 +25,6 @@
     font-size: 30px;
     font-weight: 700;
     flex: 1;
-    margin-right: 10px;
     margin-top: 100px;
 }
 .work_heading h3 span{
@@ -22,7 +32,7 @@
     font-weight: 400;
 }
 .work_line{
-    flex: 1.5;
+    flex: 1;
     border-top: 1px solid #64FFda;
     margin-top: 100px;
 }

@@ -7,7 +7,7 @@ function Header() {
         <h6>Hi, my name is</h6>
         <h3>Anil Parusubotu.</h3>
         <h4>I build things for the web.</h4>
-        <p>I'm a software engineer specializing in building (and occasionally designing) exceptional digital experiences. Currently, I'm focused on building accessible, human-centered products at Upstatement.</p>
+        <p>I'm a software engineer specializing in building (and occasionally designing) exceptional digital experiences. Currently, I'm focused on building React based applications at Tech Mahindra.</p>
     </div>
   )
 }

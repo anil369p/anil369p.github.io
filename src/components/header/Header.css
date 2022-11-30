@@ -1,3 +1,23 @@
+@media only screen and (max-width: 480px){
+    .header_wrapper{
+        margin: 0 50px !important;
+        margin-top: 150px !important;
+    }
+    .header_wrapper h6{
+        font-size: 15px !important;
+    }
+    .header_wrapper h3{
+        font-size: 30px !important;
+    }
+    .header_wrapper h4{
+        font-size: 30px !important;
+    }
+    .header_wrapper p{
+        width: 100% !important;
+        font-size: 15px !important;
+    }
+    
+}
 .header_wrapper{
     margin: 0 100px;
     margin-top: 150px;

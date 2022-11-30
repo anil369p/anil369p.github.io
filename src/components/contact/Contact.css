@@ -1,3 +1,27 @@
+@media only screen and (max-width: 480px){
+    .contact_wrapper{
+        margin: 100px 50px 0 50px !important;
+    }
+    .contact_content{
+        margin: 0 !important;
+    }
+    .contact_content p{
+        font-size: 15px !important;
+    }
+    .contact_content h3{
+        font-size: 20px !important;
+    }
+    .contact_content h6{
+        font-size: 15px !important;
+        text-align: justify !important;
+        text-justify: inter-word;
+    }
+    .contact_content a{
+        width: 100px !important;
+        padding: 10px 0px !important; 
+        font-size: 15px !important;
+    }
+}
 .contact_wrapper{
     margin: 100px 100px 0 100px;
 }
