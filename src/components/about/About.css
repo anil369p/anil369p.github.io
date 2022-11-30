@@ -1,6 +1,6 @@
 @media only screen and (max-width: 480px){
     .about_wrapper{
-        margin: 0 50px !important;
+        margin: 0 30px !important;
         margin-top: 100px !important;
         flex-direction: column;
     }
@@ -24,6 +24,10 @@
     .about_heading div{
         flex: 0.7 !important;
     }
+    .about_resume{
+        display: inline !important;
+    }
+
 }
 .about_wrapper{
     margin: 0 100px;
@@ -94,11 +98,29 @@
     right: 20px;
     width: 100%;
     height: 100%;
-    background-image: url('https://media-exp1.licdn.com/dms/image/C4E03AQFF7qWyCOeOOg/profile-displayphoto-shrink_400_400/0/1644765659618?e=1675296000&v=beta&t=KjSNrnjbkg6t5jLIWffLUN4-Ps0kdM0g--LgEi5rWAI');
+    background-image: url("../../media/profile.jpg");
     background-position-y: top;
     background-position-x: center;
     background-size: cover;
     border-radius: 10px;
 }
+
+.about_resume{
+    margin-top: 20px;
+    display: none;
+}
+
+.about_resume button{
+    cursor: pointer;
+    padding: 10px 15px;
+    border-radius: 5px;
+    border: 1px solid;
+    background-color: rgb(10, 25, 47);
+    border-color: #64FFda;
+    color: #64FFda;
+    font-size: 15px;
+    font-weight: 700;
+    letter-spacing: 0.5px;
+ }
 
 

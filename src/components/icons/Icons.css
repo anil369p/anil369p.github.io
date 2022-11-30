@@ -1,0 +1,22 @@
+@media only screen and (max-width: 480px){
+    .icons_wrapper{
+        display: inline !important;
+    }
+}
+
+.icons_wrapper{
+    margin: 0 30px 10px;
+    display: none;
+}
+.icons_item{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 20%;
+    justify-content: space-between;
+}
+.icons_item a{
+    font-size: 20px;
+    text-decoration: none;
+    color: #CCD6F6;
+}

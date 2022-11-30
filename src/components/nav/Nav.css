@@ -38,6 +38,7 @@
     text-decoration: none;
     font-size: 30px;
     font-weight: 300;
+    font-family: Brush Script MT;
     letter-spacing: 1px;
     transition: letter-spacing 0.5s;
 }

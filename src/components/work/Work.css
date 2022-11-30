@@ -1,6 +1,6 @@
 @media only screen and (max-width: 480px){
     .work_wrapper{
-        margin: 100px 50px 0 50px !important;
+        margin: 100px 30px 0 30px !important;
     }
     .work_heading h3{
         font-size: 20px !important;
@@ -46,13 +46,15 @@
 }
 .work_data div{
     width: 300px;
-    background-color: rgb(100, 255, 218, 0.5);
     margin: 20px;
     height: 300px;
     line-height: 300px;
     text-align: center;
     border-radius: 10px;
     transition: 0.5s;
+    background-image: url('../../media/developer.jpg');
+    background-position: center;
+    background-size: cover;
 }
 .work_data div:hover{
     background-color: rgb(100, 255, 218, 0.9);

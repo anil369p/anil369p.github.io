@@ -1,5 +1,6 @@
 import React from 'react'
 import './About.css'
+import Resume from '../../media/Resume_Anil.pdf'
 
 function About() {
   return (
@@ -22,6 +23,9 @@ function About() {
                     <li>HTML</li>
                     <li>CSS</li>
                 </ul>
+            </div>
+            <div className='about_resume'>
+                <a href={Resume} target="blank"><button>Resume</button></a>
             </div>
         </div>
         <div class="about_imagebox">

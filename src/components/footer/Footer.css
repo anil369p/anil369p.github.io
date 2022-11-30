@@ -1,7 +1,6 @@
 @media only screen and (max-width: 480px){
     .footer_wrapper{
         margin: 0 50px !important;
-        margin-top: 150px !important;
         margin-bottom: 10px !important;
     }
     .footer_content p{
@@ -10,7 +9,6 @@
 }
 .footer_wrapper{
     margin: 0 100px;
-    margin-top: 150px;
     margin-bottom: 10px;
     text-align: center;
 }
