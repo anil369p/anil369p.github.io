@@ -1,0 +1,27 @@
+.header_wrapper{
+    margin: 0 100px;
+    margin-top: 150px;
+    color: #CCD6F6;
+}
+.header_wrapper h6{
+    font-size: 20px;
+    margin-bottom: 10px;
+    font-weight: 300;
+    color: #64FFda;
+}
+.header_wrapper h3{
+    font-size: 80px;
+    margin: 0px;
+}
+.header_wrapper h4{
+    font-size: 70px;
+    margin: 0px;
+    opacity: 0.5;
+}
+.header_wrapper p{
+    font-size: 18px;
+    width: 70%;
+    font-weight: 400;
+    margin-top: 30px;
+    color: #8892B0;
+}
