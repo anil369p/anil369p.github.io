@@ -1,6 +1,7 @@
 import React, { useEffect } from 'react'
 import './Nav.css'
 import Resume from '../../media/Resume_Anil.pdf'
+import Logo from '../../media/logo.svg'
 
 function Nav() {
 
@@ -20,7 +21,7 @@ function Nav() {
   return (
     <div className='nav_wrapper' id="Nav">
         <div className='nav_logo'>
-            <a href='/'>Anil.</a>
+            <a href='/'><img src={Logo} alt="Logo"/></a>
         </div>
         <div className='nav_items'>
             <div className='nav_list'>

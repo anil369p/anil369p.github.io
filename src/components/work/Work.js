@@ -12,13 +12,6 @@ function Work() {
             <div className='work_data'>
                 <div><p>Coming Soon!</p></div>
                 <div><p>Coming Soon!</p></div>
-                <div><p>Coming Soon!</p></div>
-                <div><p>Coming Soon!</p></div>
-                <div><p>Coming Soon!</p></div>
-                <div><p>Coming Soon!</p></div>
-                <div><p>Coming Soon!</p></div>
-                <div><p>Coming Soon!</p></div>
-                <div><p>Coming Soon!</p></div>
             </div>
         </div>
     </div>
